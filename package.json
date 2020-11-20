@@ -1,0 +1,22 @@
+{
+  "name": "arbolito",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "npx snowpack dev",
+    "build": "npx snowpack build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@snowpack/plugin-dotenv": "^2.0.4",
+    "@snowpack/plugin-react-refresh": "^2.3.4",
+    "snowpack": "^2.15.1"
+  },
+  "dependencies": {
+    "three": "^0.122.0"
+  }
+}

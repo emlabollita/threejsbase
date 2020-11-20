@@ -1,0 +1,26 @@
+body, html {
+  margin:0px;
+  padding: 0px;
+  overflow: hidden;
+  font-family: 'PT Sans', sans-serif;
+
+}
+
+.icon {
+  width: 28px;
+  height: 28px;
+  padding: 12px;
+
+  z-index: 7;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #00000044;
+  border-radius: 50px;
+  margin-left: 12px;
+  top: 0px;
+  left: 0px;
+
+
+  position: absolute;
+}

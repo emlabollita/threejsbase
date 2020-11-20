@@ -1,0 +1,11 @@
+body, html {
+  margin:0px;
+  padding: 0px;
+  overflow: hidden;
+}
+
+#renderer {
+  width: 600px;
+  height: 400px;
+  background-color: #000212;
+}
